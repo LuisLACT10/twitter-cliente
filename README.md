@@ -42,7 +42,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-The challenge of the app is to have an exact replica of twitter design.
+The challenge of the app is to have an exact replica of twitter design. I need to work on more on the optional features.
 
 ## Open-source libraries used
 
