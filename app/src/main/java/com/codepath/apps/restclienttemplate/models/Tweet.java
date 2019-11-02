@@ -11,6 +11,8 @@ public class Tweet {
 
     public String body;
     public String createAt;
+    public int retweetCount;
+    public int favoriteCount;
     public long id;
     public User user;
 
