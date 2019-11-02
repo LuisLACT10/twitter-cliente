@@ -51,7 +51,7 @@ The challenge of the app is to have an exact replica of twitter design. I need t
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Luis Cardenas]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
