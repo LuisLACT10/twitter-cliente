@@ -32,4 +32,14 @@
         android:layout_marginTop="1dp"
         android:layout_marginEnd="1dp"
         android:text="@string/tweet" />
+
+    <TextView
+        android:id="@+id/tvCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etCompose"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="21dp"
+        android:layout_toEndOf="@+id/ivProfileImage"
+        android:text="0/140" />
 </RelativeLayout>
